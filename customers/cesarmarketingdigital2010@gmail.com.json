@@ -2,10 +2,11 @@
   "email": "cesarmarketingdigital2010@gmail.com",
   "produto": "teste-31",
   "upsells_comprados": [
-    3
+    3,
+    "Bolo-Chocolate"
   ],
-  "data": "2025-08-29T11:51:31.098Z",
-  "transacao_id": "checkout_533593",
+  "data": "2025-08-29T11:56:18.586Z",
+  "transacao_id": "test-card-1756468578586",
   "acesso_liberado": true,
   "nome": "Felipe de Sousa",
   "cpf": "02746294885",
